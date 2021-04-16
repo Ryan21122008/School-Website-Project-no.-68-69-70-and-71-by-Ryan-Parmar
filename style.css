@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.admissionsopen {
+    background-color: #0356fc;
+}
+
+#learning {
+    margin-left: 30px;
+}
+
+#admission {
+    margin-top: 30px;
+}
+html{
+    scroll-behavior:smooth;
+}
+.headers{
+    margin-right:80%;
+}
+img{
+    margin-right:50px;
+}
