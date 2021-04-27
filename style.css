@@ -70,3 +70,15 @@ campusplaces p {
     height:30%;
     width:150%;
 }
+.whatsnewli img{
+    border-radius:30px;
+}
+.whatsnewli{
+    margin-top:10px;
+    margin-bottom:10px;
+}
+.whatsnewli h4{
+    border-bottom:3px solid azure;
+    padding:9px;
+    font-size:25px;
+}
