@@ -82,3 +82,6 @@ campusplaces p {
     padding:9px;
     font-size:25px;
 }
+#navbarlist{
+    position:sticky;
+}
