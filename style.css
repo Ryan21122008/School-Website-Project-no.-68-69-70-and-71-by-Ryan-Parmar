@@ -85,3 +85,39 @@ campusplaces p {
 #navbarlist{
     position:sticky;
 }
+#footer{
+    height:20px;
+    background-color:white;
+}
+#alumni h1{
+    margin-top:20px;
+}
+.alumnilist {
+    cursor: pointer;
+}
+
+.imgmodal {
+    display:inline;
+}
+
+.modal-content {
+    margin-top: 100px;
+}
+
+.modalp {
+    margin-top: 20px;
+}
+
+.modal-body {
+    text-align: center;
+}
+.imgmodal{
+    display:inline-block;
+}
+modal-body{
+    text-align:center;
+}
+modal-header{
+    text-align:center;
+}
+
